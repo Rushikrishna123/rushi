@@ -1,1 +1,0 @@
-i have done my mini project on weather reporting system using arduino
